@@ -1,4 +1,4 @@
-tensorflow==2.2.0
+tensorflow
 streamlit==0.78.0
 tensorflow_hub==0.11.0
 numpy==1.19.5
